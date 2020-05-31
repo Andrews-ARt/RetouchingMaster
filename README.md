@@ -1,2 +1,2 @@
 # RetouchingMaster
-SparkAR Retouching with script
+SparkAR Retouching using scripting
